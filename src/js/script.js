@@ -33,7 +33,7 @@ const app = {
     {
       name: "Em hat ai nghe",
       singer: "Orange",
-      path: "https://data25.chiasenhac.com/download2/2189/3/2188236-31b59320/128/Em%20Hat%20Ai%20Nghe%20-%20Orange.mp3",
+      path: "https://data.chiasenhac.com/down2/2189/3/2188236-31b59320/128/Em%20Hat%20Ai%20Nghe%20-%20Orange.mp3",
       image: "https://data.chiasenhac.com/data/cover/146/145004.jpg",
     },
     {
